@@ -1,0 +1,12 @@
+total 64
+drwxr-xr-x  11 wilson-apex  staff  352 Feb 14 01:15 .
+drwxr-xr-x   6 wilson-apex  staff  192 Feb 13 21:59 ..
+-rwxr--r--   1 wilson-apex  staff   30 Feb 13 22:05 0-hello_world
+-rwxr--r--   1 wilson-apex  staff   28 Feb 13 22:58 1-confused_smiley
+-rwxr--r--   1 wilson-apex  staff   28 Feb 13 23:13 2-hellofile
+-rwxr--r--   1 wilson-apex  staff   44 Feb 13 23:49 3-twofiles
+-rwxr-xr-x   1 wilson-apex  staff   35 Feb 14 00:24 4-lastlines
+-rwxr-xr-x   1 wilson-apex  staff   35 Feb 14 00:24 5-firstlines
+-rwxr--r--   1 wilson-apex  staff   36 Feb 14 01:13 8-cwd_state
+-rw-r--r--   1 wilson-apex  staff   92 Feb 13 22:30 README.md
+-rw-r--r--   1 wilson-apex  staff    0 Feb 14 01:24 ls_cwd_content
