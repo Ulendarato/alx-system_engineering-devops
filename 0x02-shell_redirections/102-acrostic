@@ -1,0 +1,2 @@
+#!/bin/bash
+$ cat An\ Acrostic | ./102-acrostic
